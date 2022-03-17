@@ -22,7 +22,7 @@ This is the one and only official W2HBot Userbot made by @David99q. Don't forget
 <h3> StringSession </h3>
 
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@GalaxyOp/W2HBOT#main.py) 
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@Coolboyansh/W2HBOT#main.py) 
 
     - Click On Generate String
     - Then Click On Green Run Button.
@@ -32,7 +32,7 @@ This is the one and only official W2HBot Userbot made by @David99q. Don't forget
 
 <h1 align="center">TO HOST 𝕎𝟚ℍ𝔹𝕠𝕥 LOCALLY OR ON ANY OTHER VPS CLICK BELOW</h1>
 
-<h2 align="center"> <a href="https://github.com/W2HGalaxy-OP/W2HUserbot">⚡ 𝕎 𝟚 ℍ 𝕌 𝕊 𝔼 ℝ 𝔹 𝕆 𝕋  ⚡</a></h2>
+<h2 align="center"> <a href="https://github.com/Coolboyansh/W2HUserbot">⚡ 𝕎 𝟚 ℍ 𝕌 𝕊 𝔼 ℝ 𝔹 𝕆 𝕋  ⚡</a></h2>
 
 ## Mandatory Vars
 
@@ -74,9 +74,9 @@ notifications in Update Channel.
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 W2HGalaxy-OP
+Copyright (C) 2021 Coolboyansh
 
-Poject [W2HBot](https://github.com/W2HGalaxy-OP/W2HBot) is free software: you can redistribute it and/or modify
+Poject [W2HBot](https://github.com/Coolboyansh/W2HBot) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
